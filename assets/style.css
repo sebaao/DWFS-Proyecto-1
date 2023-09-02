@@ -1,0 +1,353 @@
+/* Estilos Generales */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #ffffff;
+}
+
+
+ /* Preguntas Frecuentes */
+ #faq {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 30px;
+    border-radius: 10px;
+  }
+
+  #faq .accordion-button {
+    background-color: #ffffff;
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+  }
+
+  #faq .accordion-button:hover {
+    background-color: #002e8a;
+    color: #ffffff;
+  }
+
+  #faq .accordion-body {
+    background-color: #ffffff;
+    color: #3b3b3b;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+  }
+
+
+/* Navbar */
+.container-fluid {
+    margin-top: 1px;
+}
+
+.nav-link:hover {
+    color: #fdfdfd !important;
+}
+
+.nav-link {
+    color: #000000 !important;
+}
+
+.navbar {
+    background-color: #ffffff !important;
+}
+
+.navbar-toggler {
+    line-height: 0;
+    color: #000000 !important;
+    background-color: rgb(255, 255, 255) !important;
+}
+
+
+
+
+/* Botón Jumbotron*/
+.btncolor {
+    background-color: rgb(0, 24, 122);
+    color: rgb(255, 255, 255);
+    border-radius: 15px;
+    border: none;
+}
+
+.btncolor:hover {
+    background-color: rgb(227, 216, 8);
+    color: rgb(255, 255, 255);
+}
+
+
+
+
+/* Estilos del footer */
+.footer {
+    position: relative;
+    background-image: url('img/footer.png');
+    background-size: 100% auto;
+    background-position: top center;
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 100px; 
+}
+
+.footer-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: -1;
+}
+
+
+.social-icons {
+    justify-content: center; 
+    list-style: none;
+    padding-left: 0;
+    display: flex;
+    gap: 10px;
+}
+
+.social-icons a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.col-md-4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.col-md-4 h4 {
+    margin-bottom: 20px;
+}
+
+/* Propiedades Texto Slides */
+.container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+
+h4 {
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+
+/* Estilos URLs*/
+a {
+    color: #ffffff; 
+    text-decoration: none; 
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #0267ff; /* Color al pasar el mouse */
+}
+
+/* Tarjetas de productos */
+.card-body .btn-primary {
+    background-color: rgb(0, 0, 188); 
+    border-color: rgb(0, 36, 154); 
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.card-body .btn-primary:hover {
+    background-color: rgb(207, 197, 0);
+    border-color: rgb(255, 234, 0); 
+}
+
+
+
+/* Estilos para pantallas más pequeñas (Teléfonos) */
+@media (max-width: 768px) {
+
+
+    .text-slider{
+        font-size: small;
+        
+        }
+    .col-md-4 {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+     /* Contenido Sec 1 izquierda */
+    .jumbotron {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: relative;
+    }
+
+
+    /* Contenido Sec 1 izquierda */
+    .left {
+        margin-left: 0;
+        margin-top: 100px;
+        background-color: rgb(0, 0, 0);
+        border-top-right-radius: 150px;
+        border-bottom-right-radius: 150px;
+        padding: 20px;
+        color: white;
+    }
+
+    .left h1,
+    .left h2,
+    .left p,
+    .d-flex,
+    .left a {
+        margin: 5%;
+        white-space: normal !important; 
+        
+    }
+
+    .left h1 {
+        font-size: 2.3rem;
+        line-height: 2.3rem;
+        font-weight: 900;
+    }
+
+    .left h6 {
+        margin-bottom: 10px;
+        margin-top: 1px;
+        font-style: italic;
+    }
+
+    .left h2 {
+        font-size: 1.1rem;
+        font-weight: 100;
+        font-stretch: narrower;
+        word-spacing: 5px;
+        margin-bottom: 5%;
+    }
+
+    .left p {
+        margin-top: 2px;
+        font-size: 1.125rem;
+        line-height: 1.51rem;
+        margin-bottom: 0.1px;
+        white-space: normal !important; 
+    }
+
+     /* Contenido Sec 1 Derecha */
+    .right {
+        margin-top: 40px;
+        margin-bottom: 40px;
+        background: url(img/bg.png) no-repeat ;
+        background-size: cover;
+        background-position: center;
+        width: 100%; 
+        height: 400px; 
+    }
+
+     /* Estilos Tarjetas/Productos*/
+    .card-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+    
+      .card-container .card {
+        width: 80%;
+        margin: 15px 0;
+      }
+
+}
+
+/* Estilos para pantallas más grandes (Computador) */
+@media (min-width: 768px) {
+
+    /* Jumbotron */
+    .jumbotron {
+        margin-top: 1px;
+        margin-left: 10px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        height: 600px;
+    }
+
+ /* Navbar*/
+    .navbar {
+        height: 60px;}
+
+    /* Contenido Sec 1 izquierda */
+    .left {
+        margin-top: 100px;
+        background-color: rgb(0, 0, 0);
+        border-top-right-radius: 50px;
+        border-bottom-right-radius: 50px;
+        padding: 20px;
+        color: white;
+    }
+
+    .left h1,
+    .left h2,
+    .left p,
+    .d-flex,
+    .left a {
+        margin: 10%;
+    }
+
+    .left h1 {
+        font-size: 2.3rem;
+        line-height: 2.3rem;
+        font-weight: 900;
+    }
+
+    .left h6 {
+        margin-bottom: 1%;
+        margin: 10%;
+        font-style: italic;
+    }
+
+    .left h2 {
+        font-size: 1.1rem;
+        font-weight: 100;
+        font-stretch: narrower;
+        word-spacing: 5px;
+        margin-bottom: 2px;
+    }
+
+    .left p {
+        margin-top: 1.75rem;
+        font-size: 1.125rem;
+        line-height: 1.75rem;
+        margin-bottom: 2%;
+    }
+ /* Contenido Sec 1 Derecha */
+    .right {
+        margin-top: 100px;
+        background: url(img/bg.png) ;
+        background-size: cover;
+        background-position: center;
+    }
+
+ /* Tarjeta/Productos */
+    .card-container {
+        display: flex;
+        justify-content: space-between;
+        margin: 10px;
+      }
+    
+      .card {
+        width: calc(33.33% - 30px); 
+        margin: 60px; 
+        margin-top: 200px; 
+      }
+    
+
+
+}
