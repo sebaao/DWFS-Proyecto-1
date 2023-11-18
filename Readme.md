@@ -1,7 +1,11 @@
 # Proyecto-1
 # Landing Page Naru Studio Project
 
-[Url del proyecto](http://proyectos.narustudio.cl/Proyecto1/)
+![Secundarios (Sello - Horizontal)](https://github.com/sebaao/DWFS-Proyecto-1/assets/140351890/8045af19-cfdd-4d09-863c-b54b3ae17f40)
+
+
+
+[Url del proyecto](https://sebaao.github.io/DWFS-Proyecto-1/)
 
 
 Informe del PROYECTO 1 de Sebastián A. López - Desarrollo Web Full Stack del Bootcamp UDD. 
