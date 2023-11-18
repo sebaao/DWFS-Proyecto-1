@@ -1,4 +1,4 @@
-# Proyecto-1
+# Proyecto-1 Bootcamp DWFS
 # Landing Page Naru Studio Project
 
 
@@ -7,10 +7,10 @@
 Informe del PROYECTO 1 de Sebastián A. López - Desarrollo Web Full Stack del Bootcamp UDD. 
 
 
-* [1. Introducción](#1-introduccion)
+* [1. Introducción](#1-introducción)
 * [2. Enlace](#2-enlace)
-* [3. Descripción](#3-descripcion)
-* [4. Conclusión](#4-conclusion)
+* [3. Descripción](#3-descripción)
+* [4. Conclusión](#4-conclusión)
 
 ## 1. Introducción
 
@@ -27,12 +27,8 @@ Vínculo para visualizar la Página Web: [Enlace] (https://sebaao.github.io/DWFS
 
 El desarrollo del proyecto involucró herramientas como Visual Studio Code para la programación, la creación de un estilo gráfico (brandbook) mediante Illustrator, y la planificación de la interactividad a través de un Moodboard.
 
-[Diagrama 1](https://github.com/DiegoPM90/Proyecto-3/assets/139089135/fd26bb03-6f47-4c24-9d30-e7dc8bd4f80b)
 
-[Diagrama 2](https://github.com/DiegoPM90/Proyecto-3/assets/139089135/e4fece95-c866-4461-8299-787aa0d8ff2e)
-
-[Diagrama 3](https://github.com/DiegoPM90/Proyecto-3/assets/139089135/8a1b791f-8247-4c8d-8612-65497ac61f0f)
-
+![Diagrama](https://github.com/sebaao/DWFS-Proyecto-1/assets/140351890/df2bad2e-ad85-41a1-8161-edf66db10471)
 
 
 
