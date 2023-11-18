@@ -2,8 +2,8 @@
 # Landing Page Naru Studio Project
 
 
-![Secundarios (Sello - Horizontal)](https://github.com/sebaao/DWFS-Proyecto-1/assets/140351890/7f591d6c-2194-4fb0-88a1-53811e2cc328)
 
+![Uploading Secundarios (Sello - Horizontal) (1).png…]()
 
 
 [Url del proyecto](https://sebaao.github.io/DWFS-Proyecto-1/)
