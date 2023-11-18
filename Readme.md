@@ -4,14 +4,6 @@
 
 ![Secundarios (Sello - Horizontal) (1)](https://github.com/sebaao/DWFS-Proyecto-1/assets/140351890/6d291ea3-cd64-4fdf-a49a-3bbc21868813)
 
-* [1. Introducción](#1-introduccion)
-* [2. Enlace](#2-enlace)
-* [3. Descripción](#3-descripcion)
-* [4. Conclusión](#4-conclusion)
-
-[Url del proyecto](https://sebaao.github.io/DWFS-Proyecto-1/)
-
-
 Informe del PROYECTO 1 de Sebastián A. López - Desarrollo Web Full Stack del Bootcamp UDD. 
 
 
@@ -27,12 +19,8 @@ Este proyecto se centra en el desarrollo de una landing page que permite un desp
 La página web facilita el contacto directo a través de Whatsapp, así como el acceso a proyectos previos. Además, incorpora elementos responsivos que se muestran o desaparecen según la necesidad.
 
 ## 2. Enlace
-[Url del proyecto](https://sebaao.github.io/DWFS-Proyecto-1/)
 
-
-Vínculo para visualizar la Página Web: [Enlace] (https://sebaao.github.io/DWFS-Proyecto-3/)
-
-
+Vínculo para visualizar la Página Web: [Enlace] (https://sebaao.github.io/DWFS-Proyecto-1/)
 
 
 ## 3. Descripción
