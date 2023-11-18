@@ -28,7 +28,7 @@ Vínculo para visualizar la Página Web: [Enlace] (https://sebaao.github.io/DWFS
 El desarrollo del proyecto involucró herramientas como Visual Studio Code para la programación, la creación de un estilo gráfico (brandbook) mediante Illustrator, y la planificación de la interactividad a través de un Moodboard.
 
 
-![Diagrama](https://github.com/sebaao/DWFS-Proyecto-1/assets/140351890/df2bad2e-ad85-41a1-8161-edf66db10471)
+[Diagrama](https://github.com/sebaao/DWFS-Proyecto-1/assets/140351890/df2bad2e-ad85-41a1-8161-edf66db10471)
 
 
 
